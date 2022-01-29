@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning full stack web development. 
 - 💞️ I’m looking to collaborate on web dev projects
+-   learning java and python 
 - 📫 How to reach me Perfectnishantruwari@gmail.com 
 
 <!---
