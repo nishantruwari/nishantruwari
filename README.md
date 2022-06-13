@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nishantruwari
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning full stack web development. 
-- 💞️ I’m looking to collaborate on web dev projects
--   learning java and python 
+- 👀 I’m interested in java projects.
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on java projects
+-   learning java 
 - 📫 How to reach me Perfectnishantruwari@gmail.com 
 
 <!---
